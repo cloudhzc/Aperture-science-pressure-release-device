@@ -674,6 +674,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8170095592343937629, guid: bdb6a6f5199ab1b4da0e4deb1785b6ce, type: 3}
+      propertyPath: m_Size.y
+      value: 14.72238
+      objectReference: {fileID: 0}
+    - target: {fileID: 8170095592343937629, guid: bdb6a6f5199ab1b4da0e4deb1785b6ce, type: 3}
+      propertyPath: m_Center.y
+      value: 6.587492
+      objectReference: {fileID: 0}
+    - target: {fileID: 8170095592343937629, guid: bdb6a6f5199ab1b4da0e4deb1785b6ce, type: 3}
       propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
